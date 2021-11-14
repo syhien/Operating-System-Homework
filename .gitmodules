@@ -1,0 +1,3 @@
+[submodule "OSlab2"]
+	path = OSlab2
+	url = https://github.com/syhien/OSlab2.git
